@@ -12,3 +12,6 @@ I'm looking forward to working with everyone this semester!
 BYU Pathway student.
 Lives in south San Francisco Bay Area, (Silicon Valley), California.
 Currently working on Computer Programming Certificate, Data Science Certificate, Web Frontend Certificate, Software Design Certificate.
+
+# Sarah
+I'm an EE major and I currently live in Utah. I will graduate in about two years. I worked as a math tutor for 3 years and really enjoyed it. I only stopped to focus more of my time on school.
