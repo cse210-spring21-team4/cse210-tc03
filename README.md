@@ -20,3 +20,6 @@ I'm an EE major and I currently live in Utah. I will graduate in about two years
 I am from Seattle, Washington and I am majoring in CIT. I love computers and games, I spend a lot of my time learning new things about 
 computers and playing video games on mine. recently I have gotten into the ancient chinese game of Go, which has been super fun to learn.
 I also love playing sports like volleyball, ultimate frisbee, and football.
+
+# Mireya
+I'm a BYU student from Peru, but living in the US. I'm pursuing a Bachelor's degree on Applied Technology.
