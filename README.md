@@ -15,3 +15,6 @@ Currently working on Computer Programming Certificate, Data Science Certificate,
 
 # Sarah
 I'm an EE major and I currently live in Utah. I will graduate in about two years. I worked as a math tutor for 3 years and really enjoyed it. I only stopped to focus more of my time on school.
+
+# Mireya
+I'm a BYU student from Peru, but living in the US. I'm pursuing a Bachelor's degree on Applied Technology.
