@@ -22,4 +22,4 @@ computers and playing video games on mine. recently I have gotten into the ancie
 I also love playing sports like volleyball, ultimate frisbee, and football.
 
 # Mireya
-I'm a BYU student from Peru, but living in the US. I'm pursuing a Bachelor's degree on Applied Technology.
+I'm a BYU pathway student from Peru, but living in the US. I'm pursuing a Bachelor's degree on Applied Technology. I'm soon to graduate at Ensign College this semester and going to BYUi this fall.
